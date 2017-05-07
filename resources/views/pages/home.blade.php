@@ -144,7 +144,7 @@
          <div class="service-box style-7 wow fadeInUp">
             <i class="ekuiva-icon-layers-1"></i>
             <div class="service-box-content">
-               <h6><a href="single-service.html">Powerful design</a></h6>
+               <h6><a href="#">Powerful design</a></h6>
                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque vitae dui interdum, 
                   rhoncus velit.
                </p>
@@ -158,7 +158,7 @@
          <div class="service-box style-7 wow fadeInUp" data-wow-delay="0.1s">
             <i class="ekuiva-icon-network"></i>
             <div class="service-box-content">
-               <h6><a href="single-service.html">Media support</a></h6>
+               <h6><a href="#">Media support</a></h6>
                <p>Mauris rutrum sit amet nisi non cursus. Vivamus in est id turpis fermentum lobortis vel a mi in hac dolor amet.</p>
             </div>
             <!-- service-box-content -->
@@ -170,7 +170,7 @@
          <div class="service-box style-7 wow fadeInUp" data-wow-delay="0.2s">
             <i class="ekuiva-icon-folder-6"></i>
             <div class="service-box-content">
-               <h6><a href="single-service.html">Well documented files</a></h6>
+               <h6><a href="#">Well documented files</a></h6>
                <p>Integer vehicula, nisl sit amet mollis pretium, odio dui volutpat lectus, ut commodo urna 
                   dui id interdum.
                </p>
@@ -231,7 +231,7 @@
    <div class="row">
       <div class="col-sm-4">
          <div class="service-box style-1">
-            <a class="waves" href="single-service.html">
+            <a class="waves" href="#">
                <div class="service-box-content">
                   <h6>Compatibility</h6>
                   <h4>Works on all mobile devices.</h4>
@@ -245,7 +245,7 @@
       <!-- col -->
       <div class="col-sm-4">
          <div class="service-box style-1">
-            <a class="waves" href="single-service.html">
+            <a class="waves" href="#">
                <div class="service-box-content">
                   <h6>Compatibility</h6>
                   <h4>Campatible with all popular WordPress plugins.</h4>
@@ -478,7 +478,7 @@
 <div class="container">
    <div class="row">
       <div class="col-sm-12 text-center">
-         <a class="btn btn-default-1 bordered" href="services.html">Read more <i class="fa fa-angle-right"></i></a>
+         <a class="btn btn-default-1 bordered" href="#">Read more <i class="fa fa-angle-right"></i></a>
       </div>
       <!-- col -->
    </div>
