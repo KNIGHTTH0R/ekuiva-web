@@ -7,7 +7,7 @@
             <ul>
 				<li data-transition="fade">
 
-                    <img src="images/images-content/index/revolution-slider/bg-slide-3.jpg" alt="" data-bgposition="center center" data-kenburns="on" data-duration="10000" data-scalestart="100" data-scaleend="120">
+                    <img src="images/index/revolution-slider/bg-slide-3.jpg" alt="">
 					
 					<div class="tp-caption subtitle-white"
 						 data-x="center" 
@@ -44,7 +44,7 @@
 				</li>
 				<li data-transition="fade">
 
-                    <img src="images/images-content/index/revolution-slider/bg-slide-2.jpg" alt="">
+                    <img src="images/index/revolution-slider/bg-slide-2.jpg" alt="">
 					
 					<div class="tp-caption title-white"
 						 data-x="right" 
@@ -53,7 +53,7 @@
 						 data-speed="300"
 						 data-transform_in="o:0;y:100;s:500;e:Power2.easeInOut;" 
 						 data-transform_out="o:0;y:100;s:500;e:Power2.easeInOut;">
-						 <img src="images/images-content/index/revolution-slider/slide-2-image-1.png" alt="">
+						 <img src="images/index/revolution-slider/slide-2-image-1.png" alt="">
 					</div>
 					
 					<div class="tp-caption title-white"
@@ -114,7 +114,7 @@
 				</li>
 				<li data-transition="fade">
 
-                    <img src="images/images-content/index/revolution-slider/bg-slide-1.jpg" alt="">
+                    <img src="images/index/revolution-slider/bg-slide-1.jpg" alt="">
 					
 					<div class="tp-caption title-white"
 						 data-x="center" 
@@ -242,7 +242,7 @@
 				
 				<div class="tooltip-container wow fadeInUp">
 					
-					<img src="images/images-content/index/image-2.png" alt="">
+					<img src="images/index/image-2.png" alt="">
 					
 					<div class="tooltip-details">
 						
@@ -253,7 +253,7 @@
 						<p>&quot;Lorem ipsum dolor sit amet, conse ctetur adipiscing elit. lobortis dolor. Cras placerat lectus a posuere aliq uet. Curabitur quis vehicula.&quot;</p>
 					
 						<footer>
-							<img src="images/images-content/testimonials/image-1.jpg" alt="">
+							<img src="images/testimonials/image-1.jpg" alt="">
 							<em>Mark Ronson, Creatika</em>
 						</footer>
 					</blockquote>
@@ -666,18 +666,18 @@
 						<h5>All you need is Halcyon, a modern and simple template, equipted with all the elements and sections you need.</h5>
 						
 						<ul class="logos-list items-3">
-							<li><a target="_blank" href="https://themeforest.net/item/setup-highperforming-responsive-modern-html5-css3-template/18503054" style="background-image:url(images/images-content/logos/logo-15.png);"></a></li>
-							<li><a target="_blank" href="http://themeforest.net/item/sydney-multiuse-financial-business-html5-css3-template/15927508" style="background-image:url(images/images-content/logos/logo-8.png);"></a></li>
-							<li><a target="_blank" href="http://themeforest.net/item/zaria-business-consulting-html5-css3-template/15540530" style="background-image:url(images/images-content/logos/logo-9.png);"></a></li>
-							<li><a target="_blank" href="http://themeforest.net/item/concept-designdriven-multipurpose-html5-template/14757303" style="background-image:url(images/images-content/logos/logo-10.png);"></a></li>
-							<li><a target="_blank" href="http://themeforest.net/item/chelsea-multipurpose-business-html5-template-/13964803" style="background-image:url(images/images-content/logos/logo-11.png);"></a></li>
-							<li><a target="_blank" href="http://themeforest.net/item/dakota-multipurpose-business-html5-template/12527549" style="background-image:url(images/images-content/logos/logo-12.png);"></a></li>
+							<li><a target="_blank" href="https://themeforest.net/item/setup-highperforming-responsive-modern-html5-css3-template/18503054" style="background-image:url(images/logos/logo-15.png);"></a></li>
+							<li><a target="_blank" href="http://themeforest.net/item/sydney-multiuse-financial-business-html5-css3-template/15927508" style="background-image:url(images/logos/logo-8.png);"></a></li>
+							<li><a target="_blank" href="http://themeforest.net/item/zaria-business-consulting-html5-css3-template/15540530" style="background-image:url(images/logos/logo-9.png);"></a></li>
+							<li><a target="_blank" href="http://themeforest.net/item/concept-designdriven-multipurpose-html5-template/14757303" style="background-image:url(images/logos/logo-10.png);"></a></li>
+							<li><a target="_blank" href="http://themeforest.net/item/chelsea-multipurpose-business-html5-template-/13964803" style="background-image:url(images/logos/logo-11.png);"></a></li>
+							<li><a target="_blank" href="http://themeforest.net/item/dakota-multipurpose-business-html5-template/12527549" style="background-image:url(images/logos/logo-12.png);"></a></li>
 						</ul><!-- logos-list -->
 			
 					</div><!-- col -->
 					<div class="col-md-offset-1 col-md-6 col-sm-12">
 						
-						<img class="wow fadeInUp" data-wow-offset="200" src="images/images-content/index/image-1.png" alt="">
+						<img class="wow fadeInUp" data-wow-offset="200" src="images/index/image-1.png" alt="">
 						
 					</div><!-- col -->
 				</div><!-- row -->
