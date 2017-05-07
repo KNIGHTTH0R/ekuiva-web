@@ -4,7 +4,7 @@
       <div class="col-sm-3">
          <!-- LOGO -->
          <div id="logo">
-            <a href="index.html">
+            <a href="/">
             <img src="images/logo.png" alt="">
             </a>
          </div>
@@ -17,7 +17,7 @@
             <a id="mobile-menu-button" class="waves" href="#"><i class="ekuiva-icon-menu"></i></a>
             <ul class="menu clearfix" id="menu">
                <li class="megamenu active">
-                  <a href="index.html">Home</a>
+                  <a href="/">Home</a>
                   <!-- megamenu-container -->
                </li>
                <li class="dropdown">
