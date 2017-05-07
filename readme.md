@@ -55,7 +55,7 @@ PERANGKAT LUNAK INI DISEDIAKAN "APA ADANYA", TANPA JAMINAN APA PUN, TERSURAT MAU
 
 
 **Dikembangkan Oleh :**
-[Lani Asep Sutisna](https://github.com/laniasepsutisna)
+[Lani Asep Sutisna](https://github.com/laniasepsutisna) dan Tim Developer Ekuiva
 
 **Free Software, Hell Yeah!**
 
