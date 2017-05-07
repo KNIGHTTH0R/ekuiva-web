@@ -1,5 +1,8 @@
 /*
  *
+ *      AUTHOR : EKUIVA;
+ *      VERSION: 1.0.0;
+ *
  *		CUSTOM.JS
  *
  */

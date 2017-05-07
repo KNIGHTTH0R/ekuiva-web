@@ -1,51 +1,52 @@
-<p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
+# Tentang Ekuiva Web
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
-</p>
+[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
 
-## About Laravel
+Website Ekuiva adalah website untuk belajar tentang teknologi web modern berbahasa Indonesia. Ini adalah project utama untuk development website Ekuiva.com. Dimana didalam repositori ini kami membuat website Ekuiva secara keseluruhan secara opensource. Artinya, kamu bisa berkontribusi secara mendalam dalam tahap pengembangan website ini. Agar bisa menjadi lebih baik dimasa yang akan datang. 
 
-Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel attempts to take the pain out of development by easing common tasks used in the majority of web projects, such as:
+Fitur utama website Ekuiva :
+  - Update tutorial bahasa Indonesia
+  - Interactive Learning
+  - Tutorial Set
+  - Coding Academic
+  - Ebook Download 
+  - New Events
+  - New Jobs 
 
-- [Simple, fast routing engine](https://laravel.com/docs/routing).
-- [Powerful dependency injection container](https://laravel.com/docs/container).
-- Multiple back-ends for [session](https://laravel.com/docs/session) and [cache](https://laravel.com/docs/cache) storage.
-- Expressive, intuitive [database ORM](https://laravel.com/docs/eloquent).
-- Database agnostic [schema migrations](https://laravel.com/docs/migrations).
-- [Robust background job processing](https://laravel.com/docs/queues).
-- [Real-time event broadcasting](https://laravel.com/docs/broadcasting).
+Jika kamu ingin berkontribusi dan ingin bergabung didalam Tim Developer Ekuiva ini silahkan kirimkan komentar dibawah ini.
 
-Laravel is accessible, yet powerful, providing tools needed for large, robust applications. A superb combination of simplicity, elegance, and innovation give you tools you need to build any application with which you are tasked.
+### Installasi
+Untuk melakukan installasi dan melakukan development di lokal komuputer kamu. silahkan ikuti beberapa petunjuk dibawah ini:
 
-## Learning Laravel
+Requritment:
+- PHP 5.6 (Minimal)
+- Composer version 1.4.1 
 
-Laravel has the most extensive and thorough documentation and video tutorial library of any modern web application framework. The [Laravel documentation](https://laravel.com/docs) is thorough, complete, and makes it a breeze to get started learning the framework.
+Clone repositori ini melalui command line:
+```sh
+$ https://github.com/ekuiva/ekuiva-web.git
+```
+Install composer dilokal komputer didalam folder ekuiva-web:
+```sh
+$ composer install
+```
+Jalakan project ekuiva-web melalui command line:
+```sh
+$ php artisan serve
+```
+Pastikan muncul pesan seperti ini:
+`Laravel development server started: <http://127.0.0.1:8000>`
 
-If you're not in the mood to read, [Laracasts](https://laracasts.com) contains over 900 video tutorials on a range of topics including Laravel, modern PHP, unit testing, JavaScript, and more. Boost the skill level of yourself and your entire team by digging into our comprehensive video library.
+Akses `http://127.0.0.1:8000` melalui browser.
 
-## Laravel Sponsors
+Jika mengalam kesulitan dalam tahap penginstallan, silahkan kirimkan issue pada repositori ini.
 
-We would like to extend our thanks to the following sponsors for helping fund on-going Laravel development. If you are interested in becoming a sponsor, please visit the Laravel [Patreon page](http://patreon.com/taylorotwell):
+### License
 
-- **[Vehikl](http://vehikl.com)**
-- **[Tighten Co.](https://tighten.co)**
-- **[British Software Development](https://www.britishsoftware.co)**
-- **[Styde](https://styde.net)**
-- [Fragrantica](https://www.fragrantica.com)
-- [SOFTonSOFA](https://softonsofa.com/)
+[The MIT License](https://opensource.org/licenses/MIT)
 
-## Contributing
+**Dikembangkan Oleh :**
+[Lani Asep Sutisna](https://github.com/laniasepsutisna)
 
-Thank you for considering contributing to the Laravel framework! The contribution guide can be found in the [Laravel documentation](http://laravel.com/docs/contributions).
+**Free Software, Hell Yeah!**
 
-## Security Vulnerabilities
-
-If you discover a security vulnerability within Laravel, please send an e-mail to Taylor Otwell at taylor@laravel.com. All security vulnerabilities will be promptly addressed.
-
-## License
-
-The Laravel framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT).
