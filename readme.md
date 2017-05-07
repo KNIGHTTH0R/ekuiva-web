@@ -44,11 +44,13 @@ Jika mengalam kesulitan dalam tahap penginstallan, silahkan kirimkan issue pada 
 ### License
 
 Hak Cipta @ 2017 - Ekuiva
+
 Izin diberikan secara cuma-cuma kepada siapa saja yang mendapatkan salinan perangkat lunak ini dan file dokumentasi terkait ("Perangkat Lunak"), untuk menangani Perangkat Lunak tanpa batasan, termasuk namun tidak terbatas pada hak untuk menggunakan, menyalin, memodifikasi, menggabungkan , Menerbitkan, mendistribusikan, mensublisensikan, dan / atau menjual salinan Perangkat Lunak, dan untuk mengizinkan orang-orang kepada Perangkat Lunak dilengkapi untuk melakukan hal tersebut, dengan tunduk pada kondisi berikut:
 
 Pemberitahuan hak cipta di atas dan pemberitahuan izin ini harus disertakan dalam semua salinan atau sebagian besar Perangkat Lunak.
 
 PERANGKAT LUNAK INI DISEDIAKAN "APA ADANYA", TANPA JAMINAN APA PUN, TERSURAT MAUPUN TERSIRAT, TERMASUK NAMUN TIDAK TERBATAS PADA JAMINAN KELAYAKAN UNTUK DIPERDAGANGKAN, KESESUAIAN UNTUK TUJUAN TERTENTU DAN PELANGGARAN. DALAM KEADAAN APA PUN, PENULIS ATAU PEMEGANG HAK CIPTA TIDAK BERTANGGUNG JAWAB ATAS KLAIM, KERUGIAN, ATAU KEWAJIBAN LAINNYA, BAIK DALAM TINDAKAN KONTRAK, TORT ATAU LAINNYA, YANG TIMBUL DARI, DARI ATAU BERHUBUNGAN DENGAN PERANGKAT LUNAK ATAU PENGGUNAAN ATAU PENGALAMAN LAIN DI DALAM PERANGKAT LUNAK.
+
 [The MIT License](https://opensource.org/licenses/MIT)
 
 
