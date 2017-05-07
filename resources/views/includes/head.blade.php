@@ -22,11 +22,11 @@
 	<!-- FONT AWESOME -->
 	<link rel="stylesheet" href="fonts/fontawesome/css/font-awesome.min.css">
 	
-	<!-- HALCYON ICONS -->
-	<link rel="stylesheet" href="fonts/halcyon-icons/css/halcyon-icons.min.css">
-	<link rel="stylesheet" href="fonts/halcyon-school-icons/css/halcyon-school-icons.min.css">
-	<link rel="stylesheet" href="fonts/halcyon-interface-icons/css/halcyon-interface-icons.min.css">
-	<link rel="stylesheet" href="fonts/halcyon-office-icons/css/halcyon-office-icons.min.css">
+	<!-- ekuiva ICONS -->
+	<link rel="stylesheet" href="fonts/ekuiva-icons/css/ekuiva-icons.min.css">
+	<link rel="stylesheet" href="fonts/ekuiva-school-icons/css/ekuiva-school-icons.min.css">
+	<link rel="stylesheet" href="fonts/ekuiva-interface-icons/css/ekuiva-interface-icons.min.css">
+	<link rel="stylesheet" href="fonts/ekuiva-office-icons/css/ekuiva-office-icons.min.css">
 	
 	<!-- FANCYBOX -->
 	<link rel="stylesheet" href="plugins/fancybox/jquery.fancybox.css">

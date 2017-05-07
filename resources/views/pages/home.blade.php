@@ -27,7 +27,7 @@
 						 data-speed="300"
 						 data-transform_in="o:0;y:100;s:500;e:Power2.easeInOut;" 
 						 data-transform_out="o:0;y:-100;s:500;e:Power2.easeInOut;">
-						 <span class="text-uppercase">Build your business with</span> <strong><em>Halcyon</em></strong>
+						 <span class="text-uppercase">Build your business with</span> <strong><em>ekuiva</em></strong>
 					</div>
 					
 					<div class="tp-caption"
@@ -162,7 +162,7 @@
 
                 <div class="service-box style-7 wow fadeInUp">
 					
-					<i class="halcyon-icon-layers-1"></i>
+					<i class="ekuiva-icon-layers-1"></i>
 					
 					<div class="service-box-content">
 						
@@ -180,7 +180,7 @@
 
                 <div class="service-box style-7 wow fadeInUp" data-wow-delay="0.1s">
 					
-					<i class="halcyon-icon-network"></i>
+					<i class="ekuiva-icon-network"></i>
 					
 					<div class="service-box-content">
 						
@@ -197,7 +197,7 @@
 
                 <div class="service-box style-7 wow fadeInUp" data-wow-delay="0.2s">
 					
-					<i class="halcyon-icon-folder-6"></i>
+					<i class="ekuiva-icon-folder-6"></i>
 					
 					<div class="service-box-content">
 						
@@ -221,7 +221,7 @@
             <div class="col-sm-12">
 	
 				<h2 class="text-center">Turn your webpage into your business card.</h2>
-				<h5 class="text-center">All you need is Halcyon , a modern and simple template, equipted with all the 
+				<h5 class="text-center">All you need is ekuiva , a modern and simple template, equipted with all the 
 				elements  an sections you need.</h5>
 				
 				<br><br>
@@ -443,7 +443,7 @@
         <div class="row">
             <div class="col-sm-12">
 	
-				<h2 class="text-center">After 4 years of constant research we came up with Halcyon. A new Experience.</h2>
+				<h2 class="text-center">After 4 years of constant research we came up with ekuiva. A new Experience.</h2>
 				
 				<br>
 				
@@ -467,7 +467,7 @@
 			
 				<div class="service-box style-10">
 					
-					<i class="halcyon-icon-settings-4"></i>
+					<i class="ekuiva-icon-settings-4"></i>
 					
 					<div class="service-box-content">
 						
@@ -482,7 +482,7 @@
 			
 				<div class="service-box style-10 wow fadeInUp" data-wow-delay="0.1s">
 					
-					<i class="halcyon-icon-file"></i>
+					<i class="ekuiva-icon-file"></i>
 					
 					<div class="service-box-content">
 						
@@ -497,7 +497,7 @@
 			
 				<div class="service-box style-10 wow fadeInUp" data-wow-delay="0.2s">
 					
-					<i class="halcyon-icon-star"></i>
+					<i class="ekuiva-icon-star"></i>
 					
 					<div class="service-box-content">
 						
@@ -512,7 +512,7 @@
 			
 				<div class="service-box style-10 wow fadeInUp" data-wow-delay="0.3s">
 					
-					<i class="halcyon-icon-fingerprint"></i>
+					<i class="ekuiva-icon-fingerprint"></i>
 					
 					<div class="service-box-content">
 						
@@ -532,7 +532,7 @@
 			
 				<div class="service-box style-10 wow fadeInUp">
 					
-					<i class="halcyon-icon-worldwide-1"></i>
+					<i class="ekuiva-icon-worldwide-1"></i>
 					
 					<div class="service-box-content">
 						
@@ -547,7 +547,7 @@
 			
 				<div class="service-box style-10 wow fadeInUp" data-wow-delay="0.1s">
 					
-					<i class="halcyon-icon-network"></i>
+					<i class="ekuiva-icon-network"></i>
 					
 					<div class="service-box-content">
 						
@@ -562,7 +562,7 @@
 			
 				<div class="service-box style-10 wow fadeInUp" data-wow-delay="0.2s">
 					
-					<i class="halcyon-icon-database-2"></i>
+					<i class="ekuiva-icon-database-2"></i>
 					
 					<div class="service-box-content">
 						
@@ -577,7 +577,7 @@
 			
 				<div class="service-box style-10 wow fadeInUp" data-wow-delay="0.3s">
 					
-					<i class="halcyon-icon-bookmark"></i>
+					<i class="ekuiva-icon-bookmark"></i>
 					
 					<div class="service-box-content">
 						
@@ -663,7 +663,7 @@
 						
 						<h2>Fast support <br class="hidden-xs"> for all our clients</h2>
 						
-						<h5>All you need is Halcyon, a modern and simple template, equipted with all the elements and sections you need.</h5>
+						<h5>All you need is ekuiva, a modern and simple template, equipted with all the elements and sections you need.</h5>
 						
 						<ul class="logos-list items-3">
 							<li><a target="_blank" href="https://themeforest.net/item/setup-highperforming-responsive-modern-html5-css3-template/18503054" style="background-image:url(images/logos/logo-15.png);"></a></li>
@@ -695,7 +695,7 @@
 						
 						<h2>Easy to customize &amp; a pleasure to work with</h2>
 						
-						<h5>All you need is Halcyon , a modern and simple template, equipted with all the elements  
+						<h5>All you need is ekuiva , a modern and simple template, equipted with all the elements  
 						an sections you need.</h5>
 						
 						<br>

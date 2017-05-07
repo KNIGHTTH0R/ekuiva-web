@@ -16,7 +16,7 @@
 				<!-- MENU --> 
 				<nav>
 				
-					<a id="mobile-menu-button" class="waves" href="#"><i class="halcyon-icon-menu"></i></a>
+					<a id="mobile-menu-button" class="waves" href="#"><i class="ekuiva-icon-menu"></i></a>
 					
 					<ul class="menu clearfix" id="menu">
 						<li class="megamenu active">
@@ -72,11 +72,11 @@
 								</div><!-- section -->
 								<div class="section x2">
 									
-									<h6>Halcyon - Multipurpose Modern Website Template</h6>
+									<h6>ekuiva - Multipurpose Modern Website Template</h6>
 									
 									<p><img src="images/preview.jpg" alt=""></p>
 									
-									<p><strong>Halcyon</strong> is a complete product with 30 different home pages, 
+									<p><strong>ekuiva</strong> is a complete product with 30 different home pages, 
 									with a large variation of header and footer styles and a large number of 
 									elements and sections.</p>
 									
@@ -294,7 +294,7 @@
 						</li>
 						<li class="search">
 
-							<a href="#search-form-container"><i class="halcyon-icon-search-1"></i></a>
+							<a href="#search-form-container"><i class="ekuiva-icon-search-1"></i></a>
 
 							<div id="search-form-container">
 		
